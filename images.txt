@@ -77,6 +77,8 @@
 # jenkins/jenkins:2.440.1-jdk21
 # jenkinsci/blueocean
 # ansible/awx_devel
-quay.io/jetstack/cert-manager-cainjector:v1.18.1
-quay.io/jetstack/cert-manager-controller:v1.18.1
-quay.io/jetstack/cert-manager-webhook:v1.18.1
+# quay.io/jetstack/cert-manager-cainjector:v1.18.1
+# quay.io/jetstack/cert-manager-controller:v1.18.1
+# quay.io/jetstack/cert-manager-webhook:v1.18.1
+ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.127.0
+quay.io/brancz/kube-rbac-proxy:v0.13.1
