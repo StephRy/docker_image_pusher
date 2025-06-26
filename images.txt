@@ -83,4 +83,5 @@
 # ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:0.127.0
 # quay.io/brancz/kube-rbac-proxy:v0.13.1
 # quay.io/minio/minio:latest
-docker.io/traefik:v3.4.1
+# docker.io/traefik:v3.4.1
+traefik/whoami
