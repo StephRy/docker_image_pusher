@@ -84,4 +84,5 @@
 # quay.io/brancz/kube-rbac-proxy:v0.13.1
 # quay.io/minio/minio:latest
 # docker.io/traefik:v3.4.1
-traefik/whoami
+# traefik/whoami
+nvidia/cuda:11.6.2-base-ubuntu20.04
