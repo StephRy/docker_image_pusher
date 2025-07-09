@@ -86,4 +86,5 @@
 # docker.io/traefik:v3.4.1
 # traefik/whoami
 # nvidia/cuda:11.8.2-base-ubuntu22.04
-ubuntu
+# ubuntu
+maven:3-alpine
