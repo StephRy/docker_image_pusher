@@ -88,4 +88,5 @@
 # nvidia/cuda:11.8.2-base-ubuntu22.04
 # ubuntu
 # maven:3-alpine
-docker.elastic.co/elasticsearch/elasticsearch:8.10.4
+# docker.elastic.co/elasticsearch/elasticsearch:8.10.4
+docker.elastic.co/kibana/kibana:8.10.4
